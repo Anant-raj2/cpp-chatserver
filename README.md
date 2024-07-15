@@ -95,7 +95,7 @@ Welcome to the Single-Threaded Chat Application! This application enables users 
 
 - **Connection Refused**: Ensure the server is running and listening on the correct port. Check firewall settings.
 - **Messages Not Received**: Verify network connectivity and ensure the server and clients are on the same network.
-- **Port Already in Use**: Change the port number in `server.py` and `client.py`.
+- **Port Already in Use**: Change the port number in `server.cpp` and `client.cpp`.
 
 ## Contributing
 
@@ -107,12 +107,6 @@ We welcome contributions! Follow these steps to contribute:
 4. Commit your changes (`git commit -m 'Add new feature'`).
 5. Push to the branch (`git push origin feature-branch`).
 6. Create a new Pull Request.
-
-## License
-
-This project is licensed under the MIT License. See the LICENSE file for more details.
-
----
 
 Happy chatting! If you have any questions or issues, please open an issue on GitHub.
 ---
